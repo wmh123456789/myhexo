@@ -14,8 +14,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wmh123456789.github.io
-# url: https://wmh123456789.gitee.io/myhexo/
+# url: http://wmh123456789.github.io
+url: https://wmh123456789.gitee.io/myhexo/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -101,6 +101,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wmh123456789/wmh123456789.github.io.git
-  # repo: https://gitee.com/wmh123456789/myhexo
+  # repo: https://github.com/wmh123456789/wmh123456789.github.io.git
+  repo: https://gitee.com/wmh123456789/myhexo
   branch: master
